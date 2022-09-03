@@ -1,0 +1,27 @@
+/*
+THIS IS SOME SYNTAX 
+target{
+    attributes : properties;
+}
+FOGET ABOUT IT
+*/
+
+#container{
+    display: flex;
+    align-items: center;
+}
+
+#main_welcome{
+    color: rgb(175, 104, 17);
+    margin: 25px;
+    background-color: black;
+    box-shadow: 5px 5px;
+}
+
+#subheader1{
+    color: blue;
+}
+
+#subheader2{
+    color: red;
+}
