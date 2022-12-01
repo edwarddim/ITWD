@@ -5,7 +5,6 @@ $(document).ready(function(){
         var dt = new Date();
         document.getElementById("datetime").innerHTML = dt.toLocaleTimeString([],{ hour: '2-digit', minute: '2-digit' });
     }
-
     $("#internet_title").click(function(){
         $("#req_res").toggle();
     })
