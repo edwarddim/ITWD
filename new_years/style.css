@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body{
+    background-color: #264653;
+    color: #F4A261;
+    text-align: center;
+}
+
+.resolution{
+    width: 200px;
+}
+
+.resolution,
+.resolutionList,
+.header,
+h2{
+    margin: 10px;
+}
+
+.resolutionList{
+    list-style-type:upper-alpha;
+    list-style-position: inside;
+}
