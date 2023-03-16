@@ -1,0 +1,33 @@
+/* 
+SELECTOR{
+  ATTRIBUTES:PROPERTIES;
+}
+*/
+/* CSS RESET */
+*{
+    margin:0;
+    padding:0;
+  }
+  
+  .header{
+    padding:15px;
+    background-color:gold;
+    color:red;
+  }
+  
+  h2,
+  .output{
+    padding:15px;
+  }
+  
+  .ask{
+    width:600px;
+    height:20px;
+    margin:15px;
+  }
+  
+  .askQuestion{
+    padding:5px;
+    background-color:gold;
+    border:none;
+  }
